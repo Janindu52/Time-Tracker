@@ -1,0 +1,6 @@
+{
+  "name": "A/L Study Time Tracker",
+  "description": "High-performance AMOLED dark study tracker and timer for A/L students with subject analytics, weekly streaks, stacked charts, and pomodoro timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
